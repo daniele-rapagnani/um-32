@@ -1,0 +1,8 @@
+/boundvariable*
+/vm.cpp
+/um
+/compiler
+/disasm
+/gmon.out
+/*.o
+/*.exe
